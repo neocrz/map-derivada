@@ -1,4 +1,3 @@
-# implementação em JuliaLang do código Haskell com adições em E() e Exp()
 module Derivada
 
 export Expr, Sum, Prod, X, E, Const, Div, Sub, Mul, Exp, Sin, Cos, Tan, Sec, ddx
